@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![이로's github stats](https://github-readme-stats.vercel.app/api?username=Coder-Iro&count_private=true&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Iro&langs_count=10&layout=compact)  
-![이로's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coder_iro)]
+![이로's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coder_iro)
 <!--
 **Coder-Iro/Coder-Iro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
